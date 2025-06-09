@@ -37,3 +37,10 @@ Uses the TMDB 5000 Movie Dataset or MovieLens dataset for training and recommend
 
 💡 Use Case:
 Ideal for streaming platforms or personal entertainment tools where users want quick, relevant, and intelligent suggestions instead of endlessly browsing.
+
+
+
+
+![Screenshot 2025-04-30 164635](https://github.com/user-attachments/assets/a481000c-78cc-466b-a739-baf02944f469)
+
+
